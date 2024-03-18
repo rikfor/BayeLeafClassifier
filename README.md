@@ -6,7 +6,7 @@ As shown in our publication, BLC offers improved accuracy and interpretability i
 
 ## Found in this repository
 
-- **Tutorials for Training and Testing BLC**: Scripts to train BLC from scratch and evaluate its performance using your data is available in the root directory, as tutorials. Tutorials for classify data in *BLC_classify_data.ipynb* also includes how you can look up marker genes found by BLC.
+- **Tutorials for Training and Testing BLC**: Scripts to train BLC from scratch and evaluate its performance using your data is available in the root directory. Tutorials for classify data in *BLC_classify_data.ipynb* also includes how you can look up marker genes found by BLC.
 - **Figure Generation**: Code to reproduce all figures in our publication can be found in *./publication_figures*
 - **Pre-trained Classifier**: The trained classifier used in our publication is available at https://drive.google.com/drive/u/0/folders/1--eGmL9U-LCvs_G_EdhPEQDKIjZbvWuI
 
