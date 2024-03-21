@@ -1,6 +1,6 @@
 # BayeLeafClassifier (BLC)
 
-This is a repository for BayeLeafClassifier (BLC), as featured in our publication "Annotation of single cells using Earth’s mover distance-based classification" *insert link*. 
+This is a repository for BayeLeafClassifier (BLC), as featured in our publication "Annotation of single cells using Earth’s mover distance-based classification" https://www.biorxiv.org/content/10.1101/2024.03.18.585613v1. 
 BLC is a cell-by-cell classifier, using Earth's Mover Distance (EMD) to find suitable marker genes followed by a naive Bayesian classifier incorporated with a Random Forest classifier. 
 As shown in our publication, BLC offers improved accuracy and interpretability in cell type classification, is faster compared to benchmarked methods and provides reliable certainty-levels (how certain BLC is of its annotation) for each cell.
 
